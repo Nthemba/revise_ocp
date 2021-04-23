@@ -2,7 +2,26 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/com.java.advanced_class_design/advanced_class_design.iml" filepath="$PROJECT_DIR$/com.java.advanced_class_design/advanced_class_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.annotations/annotations.iml" filepath="$PROJECT_DIR$/com.java.annotations/annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.exceptions_assertions_locale/assertions-locale.iml" filepath="$PROJECT_DIR$/com.java.exceptions_assertions_locale/assertions-locale.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic-projet.iml" filepath="$PROJECT_DIR$/basic-projet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.class_design/class-design.iml" filepath="$PROJECT_DIR$/com.java.class_design/class-design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.annotations/com.java.annotations.iml" filepath="$PROJECT_DIR$/com.java.annotations/com.java.annotations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.building_blocks/com.java.building_blocks.iml" filepath="$PROJECT_DIR$/com.java.building_blocks/com.java.building_blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.class_design/com.java.class_design.iml" filepath="$PROJECT_DIR$/com.java.class_design/com.java.class_design.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.concurrency/com.java.concurrency.iml" filepath="$PROJECT_DIR$/com.java.concurrency/com.java.concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.concurrency/concurrency.iml" filepath="$PROJECT_DIR$/com.java.concurrency/concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.core_java_apis/core-java-apis.iml" filepath="$PROJECT_DIR$/com.java.core_java_apis/core-java-apis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.exceptions/exceptions.iml" filepath="$PROJECT_DIR$/com.java.exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.core_java_apis/fight-to-the-end.iml" filepath="$PROJECT_DIR$/com.java.core_java_apis/fight-to-the-end.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.exceptions/fight-to-the-end (1).iml" filepath="$PROJECT_DIR$/com.java.exceptions/fight-to-the-end (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.exceptions_assertions_locale/fight-to-the-end (2).iml" filepath="$PROJECT_DIR$/com.java.exceptions_assertions_locale/fight-to-the-end (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.functional_programming/fight-to-the-end (3).iml" filepath="$PROJECT_DIR$/com.java.functional_programming/fight-to-the-end (3).iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.functional_programming/functional-programming.iml" filepath="$PROJECT_DIR$/com.java.functional_programming/functional-programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.generics_collections/generics-collections.iml" filepath="$PROJECT_DIR$/com.java.generics_collections/generics-collections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.building_blocks/java-building-blocks.iml" filepath="$PROJECT_DIR$/com.java.building_blocks/java-building-blocks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.java.io_nio/java-io-nio.iml" filepath="$PROJECT_DIR$/com.java.io_nio/java-io-nio.iml" />
     </modules>
   </component>
 </project>

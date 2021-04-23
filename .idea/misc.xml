@@ -4,8 +4,22 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.advanced_class_design/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.core_java_apis/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.exceptions/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.exceptions_assertions_locale/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.functional_programming/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.building_blocks/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.annotations/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.class_design/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.concurrency/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.generics_collections/pom.xml" />
+        <option value="$PROJECT_DIR$/com.java.io_nio/pom.xml" />
       </list>
     </option>
+  </component>
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/com.java.jdbc/com.java.jdbc.iml" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK" />
 </project>

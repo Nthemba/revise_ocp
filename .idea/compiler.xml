@@ -6,11 +6,41 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="fight-to-the-end (1)" />
+        <module name="fight-to-the-end (2)" />
+        <module name="java-io-nio" />
+        <module name="fight-to-the-end (3)" />
+        <module name="annotations" />
+        <module name="exceptions" />
+        <module name="concurrency" />
+        <module name="functional-programming" />
+        <module name="advanced_class_design" />
+        <module name="fight-to-the-end" />
         <module name="basic-projet" />
+        <module name="assertions-locale" />
+        <module name="class-design" />
+        <module name="generics-collections" />
+        <module name="java-building-blocks" />
+        <module name="core-java-apis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="advanced_class_design" target="1.5" />
+      <module name="annotations" target="1.5" />
+      <module name="assertions-locale" target="1.5" />
       <module name="basic-projet" target="1.5" />
+      <module name="class-design" target="1.5" />
+      <module name="concurrency" target="1.5" />
+      <module name="core-java-apis" target="1.5" />
+      <module name="exceptions" target="1.5" />
+      <module name="fight-to-the-end" target="1.5" />
+      <module name="fight-to-the-end (1)" target="1.5" />
+      <module name="fight-to-the-end (2)" target="1.5" />
+      <module name="fight-to-the-end (3)" target="1.5" />
+      <module name="functional-programming" target="1.5" />
+      <module name="generics-collections" target="1.5" />
+      <module name="java-building-blocks" target="1.5" />
+      <module name="java-io-nio" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
